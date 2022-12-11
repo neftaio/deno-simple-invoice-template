@@ -1,0 +1,22 @@
+{
+  "user_name": "Pepe El Grillo",
+  "user_id": "55555",
+  "user_address": "Cr 34 # 68-23",
+  "user_phone": "+57 320 3829658",
+  "user_city": "Bogotá D.C.",
+  "company": "My Company",
+  "company_id": "980423234809",
+  "city": "Bogotá D.C.",
+  "date": null,
+  "name_tax_a": "Retención en la fuente",
+  "percent_tax_a": 4.86,
+  "name_tax_b": "ICA",
+  "percent_tax_b": 1,
+  "work_start_date": "2018-11-03",
+  "items": [
+    {
+      "name": "Desarrollo y mantenimiento de la .. plataforma e-abcd",
+      "total": 200000
+    }
+  ]
+}
